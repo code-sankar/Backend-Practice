@@ -1,0 +1,14 @@
+-Form handling and working with the forms
+- handle backend process of forms and making sure the data coming from any frontend librery, framework, template engines 
+  we still handle it at the backend
+
+
+--- to install: npm i cookie-parser
+
+
+
+-- hum log kutch bhi data frontend par browser par rakh sakte hai and jab bhi app kuch bhi request backend par karoge wo fe par saved data
+   automatically backend par karoge wo frontend par saved data automatically backend par chala jaayega
+
+-- tumne to bheja tha plain text par server ko mila blob which is not directly readable abb iss chiz ko handle karna parega ki hum uss blob 
+   ko wapas se readable kar sake 

@@ -1,0 +1,25 @@
+Data Storage:
+            aisa kutch jaha par hum saare users ki info store kar sakte hain jisse Database kehte hain
+
+Type Of Databases:
+                SQL | NoSQL
+
+                SQL - data ko ek roop main rekhna like tables .
+
+                NoSQL - data is stored in the form of Objects.
+                Example: MongoDB
+            
+
+what and why
+terminologies - collection, documents, schemas, keys, models
+-------------------------------------------------------------------------------------
+Database -> Collections -> Document
+
+
+====================================================================================
+
+CODE                             DATABASE
+------------------------------------------------------------------------------------
+mongoose.connect      ->       database create
+model create          ->       collection
+CREATE code           ->       document

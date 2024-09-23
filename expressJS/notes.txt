@@ -1,0 +1,14 @@
+// Express.js Framework 
+
+// Introduction To Express js
+// Express js ek npm pakage hai
+// Framework
+// manages everything from receiving the request and giving the response
+
+// Setting up a basic Express application.
+// Routing 
+// Middleware : jab bhi server request accept karta hai waha se route ke beech pahusne tak agar aap us request ko beech main rokhte 
+                ho aur kutch perform katre ho to wo middleware kehlata haa. 
+
+// Request and response handling 
+// Error handling

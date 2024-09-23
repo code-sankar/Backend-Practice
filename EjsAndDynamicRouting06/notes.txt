@@ -1,0 +1,21 @@
+THINGS TO DO
+-- setting up parsers for form
+
+-- setting up ejs for ejs pages
+            : install ejs from "npm i ejs"
+            : setup ejs as a for view engine
+
+-- setting up public static files 
+                
+
+-- dynamic routing 
+         : dynamic routing
+         -- hum log kai baar kuchh routes dekhte hai unmain sirf ek hi hissa change hota hai
+         1. sabse pehle browser par jao
+         2. url likhiye apna jo aapko chahiye and enter dabaaiye
+         3. aab us url route ko create kariye
+         4. response bhejiye kutch bhi
+         5. ab usi url ko agar dynamic banana hai to relise karo konsa part dynamic hai aur uss part k aage route main " : " laga do.
+
+
+         : how to get data coming from frontend to backend
